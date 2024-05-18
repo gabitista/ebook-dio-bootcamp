@@ -1,0 +1,24 @@
+
+Prompt image - Copylot design 
+## I couldn't access the Discord group 'Midjourney', so I took the liberty to use another AI image generator
+
+"clean background" "modern office desk" "graphics in a laptop"
+
+
+Prompt chatGPT
+
+1. chat, me de um título de ebook relacionado a como implantar controladoria jurídica em escritórios juíridocos pequenos ou medios
+
+2. "chat, como voce estruturaria um ebook chamado "escritórios compactos e eficientes: implemente uma controladoria jurídica"
+
+3. Chat, preciso que gere textos para o ebook que estou montando. O público-alvo é de jovens advogados inovadores. O título do ebook é "Escritórios compactos e eficientes: implementando a controladoria jurídica"
+(CAPITULOS)
+> Capítulo 1 "Fundamentos da controladoria jurídica"
+> Capítulo 2 "ferramentas e tecnologias essenciais"
+> Capítulo 3 "desenhando processos"
+> Capítulo 4 "montando sua equipe"
+> Capítulo 5 "Adaptabilidade e inovação"
+> Capítulo 6 "Desafios e Estudo de caso"
+> Capítulo 7 "Conclusão"
+
+4. "Me de dicas de como enriquecer o layout do ebook"
